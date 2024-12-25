@@ -1,6 +1,1 @@
-git clone https://github.com/username/repository.git
-cd repository
-cp /path/to/your/html/files/* .
-git add .
-git commit -m "Add initial HTML files"
-git push origin main
+
